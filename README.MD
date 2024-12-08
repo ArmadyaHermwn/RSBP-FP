@@ -1,13 +1,13 @@
 ## Requirement
 
 - [Python 3](https://www.python.org/downloads/release/python-380/), [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
-- Langkah awalan utuk menjalankan program ketikan perintah berikut di dalam terminal
-  `pip install -r requirements.txt`.
+```bash
+pip install -r requirements.txt
+```
 
 ## Dataset
 - https://www.kaggle.com/datasets/msambare/fer2013
 Dataset FER2013
-
 
 ## Train
 ```bash
